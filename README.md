@@ -1,2 +1,2 @@
 # cs_learning
-CS learning note
+CS learning note, including compiler, architecture and so on...
